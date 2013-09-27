@@ -10,6 +10,7 @@ References
 ----------
 
 http://paulbourke.net/geometry/2circle/
+
 http://mathworld.wolfram.com/Circle-CircleIntersection.html
 
 Usage
@@ -50,6 +51,7 @@ Results valid for eccentric circles:
     Vector2 versorC1cC2c;                               // direction versor from c1 center to c2 center
     Vector2 versorRadicalLine;                          // direction versor of radical line
                                                         // (points to the left if looking from c1 center to c2 center)
+
 Results valid for tangent circles:
 
     Vector2 intersectionPoint;                          // intersection point
