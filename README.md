@@ -9,7 +9,7 @@ A year ago I needed free code to compute coplanar circle-to-circle intersections
 References
 ----------
 
-* http://paulbourke.net/geometry/2circle/
+* http://paulbourke.net/geometry/circlesphere/
 * http://mathworld.wolfram.com/Circle-CircleIntersection.html
 
 Usage
